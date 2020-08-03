@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://excalibur.github.io</id>
     <title>greaek</title>
-    <updated>2020-08-02T08:20:31.743Z</updated>
+    <updated>2020-08-03T02:47:58.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://excalibur.github.io"/>
     <link rel="self" href="https://excalibur.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://excalibur.github.io/post/wo-jia-de-xiao-mao-mi/">
         </link>
         <updated>2020-08-02T02:04:35.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>    我家的小猫咪浑身毛茸茸的，非常可爱，特别是在他睡觉的时候，卖萌的姿势让人忍俊不禁呢</code></pre>
+        <content type="html"><![CDATA[<pre><code>    我家的小猫咪浑身毛茸茸的，非常可爱，特别是在他睡觉的时候，卖萌的姿势让人忍俊不禁呢。</code></pre>
 ]]></content>
     </entry>
     <entry>
